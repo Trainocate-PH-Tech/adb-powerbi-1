@@ -22,3 +22,5 @@ ADDCOLUMNS(
     "Day Name", FORMAT([Date], "dddd")
 )
 ```
+
+5. Mark this as a Date table (right click mark as date)
